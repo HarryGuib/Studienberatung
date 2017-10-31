@@ -10,6 +10,8 @@ public class Studienberatung{
 			System.out.println("Hast du Fachabitur ?");
 
 			System.out.println("Bist du wissbegierig ?"); 
+			
+			System.out.println("Hast du eine berufsausbildung ?"); 
 
 			
 		}
